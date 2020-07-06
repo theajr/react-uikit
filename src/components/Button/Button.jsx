@@ -33,7 +33,7 @@ Button.propTypes = {
   type: PropTypes.oneOf(btnTypes),
   size: PropTypes.oneOf(btnSizes),
   fullWidth: PropTypes.bool,
-  children: PropTypes.element.isRequired
+  children: PropTypes.node
 }
 
 Button.defaultProps = {}

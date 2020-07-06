@@ -40,7 +40,7 @@ Card.Footer = CardFooter
 Card.propTypes = {
   type: PropTypes.oneOf(cardTypes),
   size: PropTypes.oneOf(cardSizes),
-  children: PropTypes.element.isRequired
+  children: PropTypes.node.isRequired
 }
 
 export default Card

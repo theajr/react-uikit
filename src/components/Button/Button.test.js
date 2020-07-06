@@ -4,7 +4,7 @@ import Button from './Button'
 
 describe('<Button />', () => {
   test('renders', () => {
-    const wrapper = shallow(<Button />)
+    const wrapper = shallow(<Button>Hello</Button>)
     expect(wrapper).toMatchSnapshot()
   })
 })
