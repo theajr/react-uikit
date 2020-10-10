@@ -64,7 +64,7 @@ class Example extends Component {
 - [ ] Label
 - [ ] Leader
 - [ ] Lightbox
-- [ ] Link
+- [x] Link
 - [ ] List
 - [ ] Margin
 - [ ] Marker
