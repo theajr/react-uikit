@@ -2,32 +2,14 @@
 
 > UIKit based react components
 
-[![NPM](https://img.shields.io/npm/v/react-uikit.svg)](https://www.npmjs.com/package/react-uikit) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+## Goal
 
-## Install
+Write React components based on [UIKit](https://getuikit.com/) css and publish it to npm once ready.
 
-```bash
-npm install --save react-uikit
-```
+## Contributions
 
-## Usage
+Please write components and test casesa along with storybook. Feel free to add more features.
 
-```jsx
-import React, { Component } from 'react'
-
-import { Button } from 'react-uikit'
-
-
-class Example extends Component {
-  render() {
-    return <div>
-      <Button>Hi</Button>
-    </div>
-  }
-}
-```
-
-## Components
 ## Components
 - [x] Accordion
 - [x] Alert
