@@ -18,7 +18,7 @@ export const Gallery = () => {
   );
 
   return (
-    <Link className='link-class' modifier={modifier} disabled={boolean('Disabled', false)} linkTag={text('Link', '#')} onClick = {actions("clicked-text")}>
+    <Link className='link-class' modifier={modifier} disabled={boolean('Disabled', false)} href={text('Link', '#')} onClick = {actions("clicked-text")}>
       {text('Text', 'I am a Link')}
     </Link>
   )
