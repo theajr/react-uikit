@@ -46,7 +46,7 @@ Please write components and test casesa along with storybook. Feel free to add m
 - [ ] Label
 - [ ] Leader
 - [ ] Lightbox
-- [ ] Link
+- [x] Link
 - [ ] List
 - [ ] Margin
 - [ ] Marker
