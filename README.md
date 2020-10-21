@@ -28,8 +28,8 @@ Please write components and test casesa along with storybook. Feel free to add m
 - [x] Container
 - [ ] Countdown
 - [ ] Cover
-- [ ] Description List
-- [ ] Divider
+- [X] Description List
+- [X] Divider
 - [ ] Dotnav
 - [ ] Drop
 - [ ] Dropdown
